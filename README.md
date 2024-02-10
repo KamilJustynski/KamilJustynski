@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kamiljustynski" alt="kamiljustynski" /></a> </p>
 
-- 🌱 I’m currently learning **TypeScript and React fixation.**
+- 🌱 I’m currently learning **TypeScript and NextJS.**
 
-- 🔭 Soon another project written using **TypeScript and React** 
+- 🔭 Soon another project written using **TypeScript and React / NextJS** 
 
 - 🤝 I’m looking for help with **finding a job.**
 
