@@ -9,7 +9,7 @@
 
 - 🔭 Soon another project written using **TypeScript and React / NextJS** 
 
-- 🤝 I’m looking for help with **finding a job.**
+- 🤝 Absence from github due to taking **internships**
 
 - 👨‍💻 All of my projects are available at [https://kamiljustynski.github.io/Personal-HomePage/](https://kamiljustynski.github.io/Personal-HomePage/)
 
