@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kamil Justyński!</h1>
-<h3 align="center">I am a Junior Frontend Developer with one year experience. I am looking for my first job and programming challenges. I want to explore new technologies, improve my skills and gain knowledge among other programmers.</h3>
+<h3 align="center">I am a Junior Frontend Developer with one year experience. I want to explore new technologies, improve my skills and gain knowledge among other programmers.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamiljustynski&label=Profile%20views&color=0e75b6&style=flat" alt="kamiljustynski" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kamiljustynski" alt="kamiljustynski" /></a> </p>
 
 - 🌱 I’m currently learning **TypeScript and NextJS.**
-
-- 🔭 Soon another project written using **TypeScript and React / NextJS** 
-
-- 🤝 Absence from github due to taking **internships**
 
 - 👨‍💻 All of my projects are available at [https://kamiljustynski.github.io/Personal-HomePage/](https://kamiljustynski.github.io/Personal-HomePage/)
 
