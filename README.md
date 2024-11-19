@@ -17,6 +17,7 @@ I am a frontend developer with a passion for creating beautiful, functional, and
 ➡️ Tailwind CSS / Styled Components
 ➡️ Figma / Canva (for UI/UX design)
 ➡️ Git & GitHub (version control)
+➡️ PHP Basics
 
 * 🌍  I'm based in Polska
 * 🖥️  See my portfolio at [NextGen-Solution](http://nextgen-solution.pl)
