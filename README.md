@@ -6,17 +6,17 @@ Frontend Developer
 
 I am a frontend developer with a passion for creating beautiful, functional, and responsive web applications. I focus on delivering exceptional user experiences, paying attention to every detail — from aesthetics to performance and accessibility. 
 
-🛠️ Technologies: 
-HTML5 & CSS3 (SCSS/SASS) 
-JavaScript (ES6+) 
-React 
-TypeScript 
-Next.js 
-Redux 
-Tailwind CSS / Styled Components 
-Figma / Canva (for UI/UX design) 
-Git & GitHub (version control)
-PHP basics
+🛠️ Technologies
+
+➡️ HTML5 & CSS3 (SCSS/SASS)
+➡️ JavaScript (ES6+)
+➡️ React
+➡️ TypeScript
+➡️ Next.js
+➡️ Redux
+➡️ Tailwind CSS / Styled Components
+➡️ Figma / Canva (for UI/UX design)
+➡️ Git & GitHub (version control)
 
 * 🌍  I'm based in Polska
 * 🖥️  See my portfolio at [NextGen-Solution](http://nextgen-solution.pl)
